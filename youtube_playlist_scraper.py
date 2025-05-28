@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = 'AIzaSyC99xu2Lq7DC_3zSi1T0Dc0H0U6FibzdcM'
+API_KEY = '**ADD YOUR OWN API KEY HERE**'
 PLAYLIST_ID = 'PLgiVKcoMxbtBfCO-wwH0VPw7OveM3gVL_'
 BASE_URL = 'https://www.googleapis.com/youtube/v3'
 
